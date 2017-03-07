@@ -53,7 +53,7 @@ p, div {
   margin-bottom: 0;
 }
 .navbar.scrolled {
-  background: rgba(255, 255, 255, 0.7);
+  /*background: rgba(255, 255, 255, 0.7);*/
 }
 nav.navbar.navbar-default {
   border-bottom: none;
